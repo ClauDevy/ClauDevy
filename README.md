@@ -1,6 +1,6 @@
-# Hi there 👋 I'm John Claude Lopez!
+# Hi there 👋 I'm Claude!
 
-### 💻 Aspiring Developer | Focused on React & Web Architecture
+### 💻 Aspiring Developer | Focused on Web Development (for now)
 
 I'm a highly motivated student currently deep-diving into the **React** ecosystem. I combine a strong foundation in **Computer Science** with a passion for building scalable, practical web applications.
 
