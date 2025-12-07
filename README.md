@@ -1,63 +1,35 @@
-# Hi there 👋 I'm Claude!
+# Hi there 👋 I'm John Claude Lopez!
 
-### 🚀 Currently Deep-Diving into React Development
+### 💻 Aspiring Developer | Focused on React & Web Architecture
 
-I'm a passionate and highly motivated aspiring developer focused on building intuitive and performant applications. I believe in continuous learning and currently.
-
----
-
-## 🌟 2. Personal Statement
-
-> I am a quick learner with a strong foundation in Computer Science fundamentals. My goal is to transition theoretical knowledge into practical, scalable solutions, particularly in the realm of modern development. I thrive in challenging environments and am eager to collaborate on projects that solve real-world problems.
+I'm a highly motivated student currently deep-diving into the **React** ecosystem. I combine a strong foundation in **Computer Science** with a passion for building scalable, practical web applications.
 
 ---
 
-## 🛠️ 3. Technical Skills
+## 🛠️ Key Technical Skills
 
-### Frontend & UI
-* **Core:** HTML5, CSS3, JavaScript (ES6+)
-* **Frameworks/Libraries:** React(fundamentals), Next.js (learning), Bootstrap
-* **State Management:** Context API, Redux (learning)
-
-### Backend & Database
-* **Languages:** Node.js (basics)
-* **Databases:** SQL (fundamentals)
-* **APIs:** RESTful Services
-
-### Other Tools & Concepts
-* **Version Control:** Git, GitHub
-* **API Testing:** Postman
-* **Deployment:** No experience yet
-* **Concepts:** Responsive Design, Component-Based Architecture
-
----
-
-## 📚 4. Education
-
-| Degree / Program | Field of Study | Institution | Expected Graduation |
-| :--- | :--- | :--- | :--- |
-| **B.S.** | Computer Science | Cavite State University | September 2028? |
-| **Relevant Coursework** | Data Structures, Algorithms, Web and App Development Fundamentals, etc. | | |
-
----
-
-## 🌐 5. Connect With Me
-
-I'm always open to new connections, collaboration opportunities, and discussions about technology!
-
-| Platform | Link |
+| Category | Skills |
 | :--- | :--- |
-| **LinkedIn** | https://www.linkedin.com/in/john-claude-lopez-357762332/ |
-| **Email** | lopezjohnclaude48@gmail.com |
-| **Portfolio** | soon |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), **React** (fundamentals), Bootstrap |
+| **Backend/DB** | Node.js (basics), SQL (fundamentals), RESTful Services |
+| **Tools** | Git, GitHub, **Postman** (API Testing), VS Code, IntelliJ, Chrome DevTools |
+| **Core Concepts** | Responsive Design, Data Structures, Algorithms, Component-Based Architecture |
 
 ---
 
-## 🗣️ 6. Languages and Tools
+## 📚 Education & Learning Focus
 
-| Category | Items |
-| :--- | :--- |
-| **Primary Language** | JavaScript/TypeScript, Java, Python |
-| **Markup & Styling** | HTML, CSS |
-| **Development Tools** | VS Code, Chrome DevTools, IntelliJ |
-| **Operating System** | Windows / Linux |
+* **B.S. Computer Science** | Cavite State University (Expected Sept 2028)
+* **Currently Mastering:** Redux, Next.js, and advanced state management techniques.
+
+---
+
+## 🌐 Let's Connect!
+
+I'm always open to collaborations, discussions, and learning opportunities. Feel free to reach out!
+
+* **LinkedIn:** [John Claude Lopez](https://www.linkedin.com/in/john-claude-lopez-357762332/)
+* **Email:** lopezjohnclaude48@gmail.com
+* **Portfolio:** *Coming Soon*
+
+---
