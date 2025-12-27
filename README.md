@@ -13,7 +13,7 @@ I'm a highly motivated student currently deep-diving into the **React** ecosyste
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), **React** (fundamentals), Bootstrap |
 | **Backend/DB** | Node.js (basics), SQL (fundamentals), RESTful Services |
 | **Tools** | Git, GitHub, **Postman** (API Testing), VS Code, IntelliJ, Chrome DevTools |
-| **Core Concepts** | Responsive Design, Data Structures, Algorithms, Component-Based Architecture |
+| **Core Concepts** | Responsive Design, Component-Based Architecture |
 
 ---
 
