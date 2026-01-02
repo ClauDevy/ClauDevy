@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-**🎓 B.S. Computer Science** @ Cavite State University *(Exp. 2028)* *🌱 Currently Mastering: Redux, Next.js, State Management*
+**🎓 B.S. Computer Science** @ Cavite State University *🌱 Currently Mastering: Redux, Next.js, State Management*
 
 <br/>
 
